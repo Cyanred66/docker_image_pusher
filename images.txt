@@ -7,3 +7,4 @@ mysql:5.7.44
 jayfong/yapi-x:2.5.2
 jayfong/yapi:1.10.2
 mongo:5.0.28-rc0-focal
+dbeaver/cloudbeaver:23.3.5
