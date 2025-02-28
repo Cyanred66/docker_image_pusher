@@ -9,3 +9,4 @@ jayfong/yapi:1.10.2
 mongo:5.0.28-rc0-focal
 dbeaver/cloudbeaver:23.3.5
 tchiotludo/akhq:0.24.0
+digitsy/kafka-magic:latest
